@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://preview.loongarch.dev/31/sitemap.xml
